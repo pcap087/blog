@@ -1,3 +1,5 @@
 Hola este es una prueba usando git
 me llamo pablo cesar acosta paredes
 tengo 26 anhios
+soy analista de sistemas de la universidad autonoma de asuncion
+me gustan los animales
